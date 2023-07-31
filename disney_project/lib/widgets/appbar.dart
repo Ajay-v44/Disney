@@ -12,6 +12,6 @@ AppBar disneyCustomAppBar(){
       height: kToolbarHeight,
       child: Image.asset(disneylogo,fit:BoxFit.contain,),
     ),
-    toolbarHeight: ,
+    toolbarHeight: kToolbarHeight,
   );
 }
