@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:disney_project/widgets/appbar.dart';
 import 'package:disney_project/widgets/carousal.dart';
+import 'package:disney_project/widgets/bottomNavigationBar.dart';
+import 'package:disney_project/widgets/listMovies.dart';
+import 'package:disney_project/widgets/recomendedMovies.dart';
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
