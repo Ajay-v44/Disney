@@ -43,7 +43,7 @@ License:
 This project is licensed under the MIT License.
 
 Contact:
-For any inquiries or questions, you can reach me at your.email@example.com or via GitHub (https://github.com/Ajay-v44).
+For any inquiries or questions, you can reach me at vajay88v@gmail.com or via GitHub (https://github.com/Ajay-v44).
 
 ---
 
